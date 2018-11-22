@@ -1,0 +1,43 @@
+{
+  "name": "inputmask",
+  "version": "4.0.3",
+  "main": [
+    "./index.js",
+    "./css/inputmask.css"
+  ],
+  "keywords": [
+    "jquery",
+    "plugins",
+    "input",
+    "form",
+    "inputmask",
+    "mask"
+  ],
+  "description": "Inputmask is a javascript library which creates an input mask.  Inputmask can run against vanilla javascript, jQuery and jqlite.",
+  "license": "http://opensource.org/licenses/mit-license.php",
+  "ignore": [
+    "**/*",
+    "!index.js",
+    "!css/**/*",
+    "!dist/**/*"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "authors": [
+    {
+      "name": "Robin Herbots"
+    }
+  ],
+  "homepage": "http://robinherbots.github.io/Inputmask",
+  "_release": "4.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "4.0.3",
+    "commit": "6d4167642ffc35bf35e6be3906380bab0ef93a66"
+  },
+  "_source": "https://github.com/RobinHerbots/Inputmask.git",
+  "_target": "^4.0.3",
+  "_originalSource": "inputmask",
+  "_direct": true
+}
