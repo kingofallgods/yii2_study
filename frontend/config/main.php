@@ -11,6 +11,7 @@ return [
     'basePath' => dirname(__DIR__),
     'bootstrap' => ['log'],
     'controllerNamespace' => 'frontend\controllers',
+    'timeZone' => 'Asia/Shanghai',
     'modules' => [
         'dev' => [
             'class' => 'frontend\modules\dev\controllers\website\Module',

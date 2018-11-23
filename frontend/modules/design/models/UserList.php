@@ -10,6 +10,9 @@ namespace frontend\modules\design\models;
 
 class UserList implements ICommand,IObservable
 {
+    /**
+     * @var IObserver[]
+     */
     private $_observers = array();
 
     function onCommand($name, ...$args)
